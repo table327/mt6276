@@ -1,0 +1,8 @@
+3G5/3G5/3G5_SP_MDT_device.rar filter=lfs diff=lfs merge=lfs -text
+pc[[:space:]]suite/LG_PC_Suite_Setup_v5.3.28.exe filter=lfs diff=lfs merge=lfs -text
+MEGAsyncSetup64.exe filter=lfs diff=lfs merge=lfs -text
+MTK_USB_All_v1.0.1.zip filter=lfs diff=lfs merge=lfs -text
+MTK_USB_All_v1.0.8.zip filter=lfs diff=lfs merge=lfs -text
+IObit-Malware-Fighter-Setup.exe filter=lfs diff=lfs merge=lfs -text
+Tecno_T631_MT6276_V3_20170330_FMTK.zip filter=lfs diff=lfs merge=lfs -text
+MTK_USB_All_v1.0.4.zip filter=lfs diff=lfs merge=lfs -text
